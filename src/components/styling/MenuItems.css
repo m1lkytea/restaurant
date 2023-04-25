@@ -1,0 +1,30 @@
+.menuitems {
+  
+    text-align: center;
+    width: 200px;
+    overflow: hidden; 
+    background-color: rgb(246, 215, 215);
+    box-shadow: 2px 4px;
+    border: 2px solid white;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    
+ 
+}
+
+.pic img {
+   
+    height: 200px;
+    width: 300px;
+    object-fit: cover;
+    display: flex;
+   
+
+}
+
+.price{
+    color: rgb(0, 0, 0);
+    margin-top: auto;
+    
+}

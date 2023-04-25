@@ -1,0 +1,50 @@
+{"apitizer":[
+{
+
+    "item": "Fried calamari",
+    "image": "uv_Calamri.jpeg",
+    "description": "calamari rings, coated in seasoned flour and quickly fried to crispy perfection.",
+    "price": "$8.00"
+}
+],
+
+"maincourse1 number one":[
+{
+    
+    "Item": "Cepelinai",
+    "image": "uv_cepelinai.jpeg",
+    "description": "potato dumplings made from grated and riced potatoes and stuffed with ground meat, dry curd cheese or mushrooms",
+    "price": "$11.99"
+
+}
+],
+
+"maincourse number two":[
+{
+        
+    "item": "Mushroom soup",
+    "image": "uv.mushroomsoup.jpeg",
+    "description": "A mix of butter and flour thicken chicken stock to create a velvety soup without being too heavy with bites of mushrooms",
+    "price": "$17.00"
+}
+],
+
+"desert":[
+{
+            
+    "item": "Tiramisu",
+    "image": "uv_tiramisu.jpeg",
+    "description": "a layered no-bake dessert consisting of ladyfingers soaked with coffee and rum, then layered with a whipped mixture of sugar, eggs and the creamy, sweet mascarpone cheese sprinkled with cocoa.",
+    "price": "$14.00"
+}
+],
+
+"drink":[
+{
+                
+    "item": "uv_butterbeer.jpeg",
+    "image": "UV.butterbeer.jpg",
+    "description": "equal parts vanilla vodka and butterscotch schnapps, which supply the boozy quotient in this recipe. Cream soda provides the cold, fizzy element, and when combined, the trio yields a drink that is sweet and refreshing.",
+    "price": "$9.90"
+}
+]}

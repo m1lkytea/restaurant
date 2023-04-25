@@ -1,3 +1,69 @@
 .contact{
-    margin-top: 60px;
+    
+    background-image: url(https://www.chicaandjo.com/wp-content/uploads/2022/01/basic-italian-macaron-recipe-00.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-form{
+    background-color: rgba(240, 248, 255, .8);
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 500px;
+    width: 90%;
+    text-align: center;
+}
+
+.contact-form h2{
+    margin-top:0;
+}
+
+.form-group{
+    margin-bottom: 20px;
+}
+
+.form-group label{
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-group input,
+.form-group textarea{
+    border-radius: 5px;
+    border: none;
+    padding:10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.form-group textarea{
+    height: 150%;
+}
+
+button[type="submit"]{
+    background-color:pink;
+    border: none;
+    color: white;
+    border-radius:5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button[type="submit"]:hover{
+    background-color:lightpink
+}
+
+.sentform{
+    height: 90vh;   
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: #ffe0e0; 
+    font-size: 3rem;
+    transition-delay: 300ms;
 }

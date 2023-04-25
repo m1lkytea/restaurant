@@ -1,7 +1,26 @@
 /* Home.css */
 .home {
   display: flex;
-  flex-direction: column;
+
   align-items: center;
-  margin-top: 60px;
+  padding-top: 60px;
+  height: 100vh;
+
+  background-image: url(../photos/pexels-askar-abayev-5638333.jpg);
+  background-repeat:none;
+  background-size: cover;
+
+}
+
+.tittle-hours {
+  background-color: rgb(169, 146, 117, 0.4);
+  height: 70vh;
+  width: 50%;
+
+
+}
+
+.rest-picture {
+  height: 100vh;
+  width: 50%;
 }
