@@ -32,8 +32,6 @@ function Contact() {
 
   const clicked = () => setShowForm(false);
 
-
-function Contact() {
   return (
     <div className='contact'>
       <div className='contact-form'>
@@ -59,7 +57,7 @@ function Contact() {
       </div>
     </div>
 )
-}
+
 }
 
 export default Contact
